@@ -1,6 +1,6 @@
 {
 	"name": "@vidosits/kube-resource-map",
-	"version": "1.1.0",
+	"version": "1.1.1",
 	"description": "Lens extension to visualize Kubernetes resources and their relations",
 	"homepage": "https://github.com/vidosits/lens-resource-map-extension",
 	"license": "MIT",
